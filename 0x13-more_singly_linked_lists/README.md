@@ -1,1 +1,1 @@
-Learning C - More singly linked lists.
+Learning C - More singly linked lists
